@@ -44,3 +44,7 @@
 - [fastapi-websocket-broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo using FastAPI.
 - [sample_fastapi](https://github.com/hogeline/sample_fastapi) - DockerCompose + FastAPI + MySQL.
 - [sklearn_fastapi](https://github.com/nickc1/sklearn_fastapi) - Building an API with the FastAPI framework to serve a scikit-learn model.
+
+## Presentations
+
+- [youtube/iGnani FastAPI playlist](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS)
