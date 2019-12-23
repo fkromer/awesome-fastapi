@@ -6,6 +6,8 @@
   - [FastAPI (pypi)](https://pypi.org/project/fastapi/)
   - [FastAPI (docs)](https://fastapi.tiangolo.com/)
   - [FastAPI (source code)](https://github.com/tiangolo/fastapi)
+- fastapi-auth
+  - [fastapi-auth (source code)](https://github.com/dmontagu/fastapi-auth)
 - fastapi_client - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
   - [fastapi_client (source code)](https://github.com/dmontagu/fastapi_client)
 - fastapi-contrib - Opinionated set of utilities on top of FastAPI.
