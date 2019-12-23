@@ -41,5 +41,6 @@
 - [fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi.
 - [fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for gothinkster/realworld with FastAPI.
 - [fastapi-celery](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing fastapi and celery with RabbitMQ for task queue, Redis for celery backend and flower for monitoring the celery tasks.
+- [fastapi-websocket-broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo using FastAPI.
 - [sample_fastapi](https://github.com/hogeline/sample_fastapi) - DockerCompose + FastAPI + MySQL.
 - [sklearn_fastapi](https://github.com/nickc1/sklearn_fastapi) - Building an API with the FastAPI framework to serve a scikit-learn model.
