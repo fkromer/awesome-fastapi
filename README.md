@@ -22,6 +22,9 @@
 - fastapi-plugins - Plugins for FastAPI framework.
   - [fastapi-plugins (pypi)](https://pypi.org/project/fastapi-plugins/)
   - [fastapi-plugins (source code)](https://github.com/madkote/fastapi-plugins)
+- fastapi-serviceutils - Utils for fastapi based services.
+  - [fastapi-serviceutils (pypi)](https://pypi.org/project/fastapi-serviceutils/)
+  - [fastapi-serviceutils (docs)](https://fastapi-serviceutils.readthedocs.io)
 - fastapi-sqlalchemy - Adds simple SQLAlchemy support to FastAPI.
   - [fastapi-sqlalchemy (pypi)](https://pypi.org/project/FastAPI-SQLAlchemy/)
   - [fastapi-sqlalchemy (source code)](https://github.com/mfreeborn/fastapi-sqlalchemy)
