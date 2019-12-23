@@ -14,6 +14,9 @@
   - [fastapi-contrib (pypi)](https://pypi.org/project/fastapi-contrib/)
   - [fastapi-contrib (docs)](https://fastapi-contrib.readthedocs.io/en/latest/readme.html)
   - [fastapi-contrib (source code)](https://github.com/identixone/fastapi_contrib)
+- fastapi-login - FastAPI-Login tries to provide similar functionality as Flask-Login does.
+  - [fastapi-login (pypi)](https://pypi.org/project/fastapi-login/)
+  - [fastapi-login (source code)](https://github.com/MushroomMaula/fastapi_login)
 - fastapi-permissions - Row level security for FastAPI framework.
   - [fastapi-permissions (source code)](https://github.com/holgi/fastapi-permissions)
 - fastapi-sqlalchemy - Adds simple SQLAlchemy support to FastAPI.
