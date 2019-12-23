@@ -14,6 +14,9 @@
   - [fastapi-contrib (source code)](https://github.com/identixone/fastapi_contrib)
 - fastapi-permissions - Row level security for FastAPI framework.
   - [fastapi-permissions (source code)](https://github.com/holgi/fastapi-permissions)
+- fastapi-versioning - API versioning for fastapi web applications.
+  - [fastapi-versioning (pypi)](https://pypi.org/project/fastapi-versioning/)
+  - [fastapi-versioning (source code)](https://github.com/DeanWay/fastapi-versioning)
 
 ## Examples
 
