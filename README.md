@@ -14,3 +14,4 @@
 ## Examples
 
 - [fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for gothinkster/realworld with FastAPI.
+- [fastapi-celery](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing fastapi and celery with RabbitMQ for task queue, Redis for celery backend and flower for monitoring the celery tasks.
