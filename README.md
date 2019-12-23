@@ -8,7 +8,7 @@
   - [FastAPI (source code)](https://github.com/tiangolo/fastapi)
 - fastapi_client - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
   - [fastapi_client (source code)](https://github.com/dmontagu/fastapi_client)
-- fastapi-permissions
+- fastapi-permissions - Row level security for FastAPI framework.
   - [fastapi-permissions (source code)](https://github.com/holgi/fastapi-permissions)
 
 ## Examples
