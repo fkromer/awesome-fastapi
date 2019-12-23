@@ -19,6 +19,9 @@
   - [fastapi-login (source code)](https://github.com/MushroomMaula/fastapi_login)
 - fastapi-permissions - Row level security for FastAPI framework.
   - [fastapi-permissions (source code)](https://github.com/holgi/fastapi-permissions)
+- fastapi-plugins - Plugins for FastAPI framework.
+  - [fastapi-plugins (pypi)](https://pypi.org/project/fastapi-plugins/)
+  - [fastapi-plugins (source code)](https://github.com/madkote/fastapi-plugins)
 - fastapi-sqlalchemy - Adds simple SQLAlchemy support to FastAPI.
   - [fastapi-sqlalchemy (pypi)](https://pypi.org/project/FastAPI-SQLAlchemy/)
   - [fastapi-sqlalchemy (source code)](https://github.com/mfreeborn/fastapi-sqlalchemy)
