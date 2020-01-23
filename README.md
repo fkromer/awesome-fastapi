@@ -44,6 +44,7 @@
 - [fastapi-websocket-broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo using FastAPI.
 - [sample_fastapi](https://github.com/hogeline/sample_fastapi) - DockerCompose + FastAPI + MySQL.
 - [sklearn_fastapi](https://github.com/nickc1/sklearn_fastapi) - Building an API with the FastAPI framework to serve a scikit-learn model.
+- [fastapi-aws-lambda-example](https://github.com/iwpnd/fastapi-aws-lambda-example)
 
 ## Presentations
 
@@ -52,3 +53,4 @@
 ## Tutorials
 
 - [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - This tutorial looks at how to develop and test an asynchronous API with FastAPI, Postgres, Pytest, and Docker using Test-Driven Development (TDD).
+- [How to continuously deploy a fastAPI to AWS Lambda with AWS SAM](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda)
