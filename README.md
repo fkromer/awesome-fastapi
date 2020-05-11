@@ -6,6 +6,8 @@
   - [FastAPI (pypi)](https://pypi.org/project/fastapi/)
   - [FastAPI (docs)](https://fastapi.tiangolo.com/)
   - [FastAPI (source code)](https://github.com/tiangolo/fastapi)
+- fastapi-admin - FastAPI-admin is a admin dashboard based on fastapi and tortoise-orm and rest-admin.
+  - [fastapi-admin (pypi)](https://pypi.org/project/fastapi-admin/)
 - fastapi-auth - Auth for use with FastAPI.
   - [fastapi-auth (source code)](https://github.com/dmontagu/fastapi-auth)
 - fastapi_client - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
