@@ -24,6 +24,9 @@
 - fastapi-plugins - Plugins for FastAPI framework.
   - [fastapi-plugins (pypi)](https://pypi.org/project/fastapi-plugins/)
   - [fastapi-plugins (source code)](https://github.com/madkote/fastapi-plugins)
+- fastapi-security
+  - [fastapi-security (pypi)](https://pypi.org/project/fastapi-security/)
+  - [fastapi-security (source code)](https://github.com/jmagnusson/fastapi-security)
 - fastapi-serviceutils - Utils for fastapi based services.
   - [fastapi-serviceutils (pypi)](https://pypi.org/project/fastapi-serviceutils/)
   - [fastapi-serviceutils (docs)](https://fastapi-serviceutils.readthedocs.io)
