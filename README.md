@@ -48,6 +48,7 @@
 - [fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for gothinkster/realworld with FastAPI.
 - [fastapi-celery](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing fastapi and celery with RabbitMQ for task queue, Redis for celery backend and flower for monitoring the celery tasks.
 - [fastapi-websocket-broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo using FastAPI.
+- [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [sample_fastapi](https://github.com/hogeline/sample_fastapi) - DockerCompose + FastAPI + MySQL.
 - [sklearn_fastapi](https://github.com/nickc1/sklearn_fastapi) - Building an API with the FastAPI framework to serve a scikit-learn model.
 - [fastapi-aws-lambda-example](https://github.com/iwpnd/fastapi-aws-lambda-example) - Minimal example application and AWS SAM template to deploy to AWS API Gateway and AWS Lambda, either locally or with Travis-CI
