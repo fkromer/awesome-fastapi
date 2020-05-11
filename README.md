@@ -52,6 +52,7 @@
 - [sample_fastapi](https://github.com/hogeline/sample_fastapi) - DockerCompose + FastAPI + MySQL.
 - [sklearn_fastapi](https://github.com/nickc1/sklearn_fastapi) - Building an API with the FastAPI framework to serve a scikit-learn model.
 - [fastapi-aws-lambda-example](https://github.com/iwpnd/fastapi-aws-lambda-example) - Minimal example application and AWS SAM template to deploy to AWS API Gateway and AWS Lambda, either locally or with Travis-CI
+- [uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.6 and above with performance auto-tuning. Optionally with Alpine Linux.
 
 ## Projects using fastAPI
 
