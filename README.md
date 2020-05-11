@@ -19,6 +19,9 @@
 - fastapi-login - FastAPI-Login tries to provide similar functionality as Flask-Login does.
   - [fastapi-login (pypi)](https://pypi.org/project/fastapi-login/)
   - [fastapi-login (source code)](https://github.com/MushroomMaula/fastapi_login)
+- fastapi-mail - The fastapi-mail simple lightweight mail system, sending emails and attachments.
+  - [fastapi-mail (pypi)](https://pypi.org/project/fastapi-mail/)
+  - [fastapi-mail (source code)](https://github.com/sabuhish/fastapi-mail)
 - fastapi-permissions - Row level security for FastAPI framework.
   - [fastapi-permissions (source code)](https://github.com/holgi/fastapi-permissions)
 - fastapi-plugins - Plugins for FastAPI framework.
