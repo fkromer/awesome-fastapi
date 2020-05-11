@@ -52,6 +52,10 @@
 - [sklearn_fastapi](https://github.com/nickc1/sklearn_fastapi) - Building an API with the FastAPI framework to serve a scikit-learn model.
 - [fastapi-aws-lambda-example](https://github.com/iwpnd/fastapi-aws-lambda-example) - Minimal example application and AWS SAM template to deploy to AWS API Gateway and AWS Lambda, either locally or with Travis-CI
 
+## Projects using fastAPI
+
+- [FaastApi](https://pypi.org/project/faastapi/) - Easily create OpenFaas functions built on top of FastAPI Python framework.
+
 ## Presentations
 
 - [youtube/iGnani FastAPI playlist](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS)
