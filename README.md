@@ -32,6 +32,10 @@
   - [fastapi-users (pypi)](https://pypi.org/project/fastapi-users/)
   - [fastapi-users (docs)](https://frankie567.github.io/fastapi-users/)
   - [fastapi-users (source code)](https://github.com/frankie567/fastapi-users)
+- fastapi-utils - Reusable utilities for FastAPI.
+  - [fastapi-utils (pypi)](https://pypi.org/project/fastapi-utils/)
+  - [fastapi (docs)](https://fastapi-utils.davidmontague.xyz/)
+  - [fastapi-utils (source code)](https://github.com/dmontagu/fastapi-utils)
 - fastapi-versioning - API versioning for fastapi web applications.
   - [fastapi-versioning (pypi)](https://pypi.org/project/fastapi-versioning/)
   - [fastapi-versioning (source code)](https://github.com/DeanWay/fastapi-versioning)
