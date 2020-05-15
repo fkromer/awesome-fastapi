@@ -1,5 +1,9 @@
 # awesome-fastapi
 
+> DEPRECATION WARNING:
+>
+> Please consider https://github.com/mjhea0/awesome-fastapi instead.
+
 ## Packages
 
 - FastAPI
